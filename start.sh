@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/GreyMatterbots/url-auto-delete-shortener-bot /Eva
+  git clone https://vigarepo2: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@github.com/vigarepo2/DokuAutoFilter /Eva
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Eva
