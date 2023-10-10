@@ -432,7 +432,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('+ADD ME TO YOUR CHANNEL+', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('⚡Start Bot In PM⚡', url='https://t.me/DokuFilterBot?start=start'),
             InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/VigaBots')
