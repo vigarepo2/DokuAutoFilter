@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/vigarepo2/DokuAutoFilter/blob/52bc488ca79e0caf88153ab85faa091d45828d81/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
+  <img src="https://github.com/vigarepo2/DokuAutoFilter/blob/c4239e675f7d9e6eed9906434264b7c56199cafb/assets/20231009_092845.jpg" alt="GreyMatter's Bot Logo">
 </p>
 <h1 align="center">
   <b>GreyMatter's Bot</b>
