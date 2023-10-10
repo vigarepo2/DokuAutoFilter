@@ -12,10 +12,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/vigarepo2/DokuAutoFilter/blob/c4239e675f7d9e6eed9906434264b7c56199cafb/assets/20231009_092845.jpg" alt="GreyMatter's Bot Logo">
+  <img src="https://github.com/vigarepo2/DokuAutoFilter/blob/c4239e675f7d9e6eed9906434264b7c56199cafb/assets/20231009_092845.jpg" alt="DokuBots Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>DokuBots</b>
 </h1>
 
 
